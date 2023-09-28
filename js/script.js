@@ -8,9 +8,7 @@ const global = {
     totalResults: 0,
   },
   api: {
-    // Register your key at https://www.themoviedb.org/settings/api and enter here
-    // Only use this for development or very small projects. You should store your key and make requests from a server
-    apiKey: '3fd2be6f0c70a2a598f084ddfb75487c',
+    apiKey: '383a0237af8b44532fe29219db480373',
     apiUrl: 'https://api.themoviedb.org/3/',
   },
 };
