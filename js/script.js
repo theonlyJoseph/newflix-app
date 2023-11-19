@@ -393,10 +393,10 @@ function initSwiper() {
   const swiper = new Swiper('.swiper', {
     slidesPerView: 1,
     spaceBetween: 30,
-    freeMode: true,
+    freeMode: false,
     loop: true,
     autoplay: {
-      delay: 4000,
+      delay: 3000,
       disableOnInteraction: false,
     },
     breakpoints: {
